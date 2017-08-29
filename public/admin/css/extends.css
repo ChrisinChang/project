@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+img{	border:0px;		}
+a{
+	color:#616C5E;
+	text-decoration:none;
+	}
+a:hover{	color:#055CC6;		}
+
+/*** 藍色 ***/
+.dark_blue15{
+	font-size:15px;
+	color:#073743;
+	font-weight:bold;
+	}
+.dark_blue15 a{	
+	color:#073743;
+	}
+.dark_blue15 a:hover{	
+	color:#055CC6;
+	}
+
+/*** 白色 ***/
+.white12{
+	color:#FFF;
+	font-size:12px;
+	}
+.white18{
+	color:#FFF;
+	font-size:18px;
+	font-weight:bold;
+	}
+.white26{
+	color:#FFF;
+	font-size:26px;
+	font-weight:bold;
+	}
+.dark_white12{
+	color:#8A9CAA;
+	font-size:12px;
+	}
+.dark_white12 a{
+	color:#8A9CAA;
+	}
+.dark_white12 a:hover{
+	color:#FFF;
+	}
+.dark_white18{
+	color:#ccc;
+	font-size:18px;
+	font-weight:bold;
+	}
+/*** 灰色 ***/
+.gray14{
+	color:#666;
+	font-size:15px;
+	}
+.gray16{
+	color:#666;
+	font-size:16px;
+	}
+.gray20{
+	color:#888;
+	font-size:20px;
+	font-weight:bold;
+	}	
